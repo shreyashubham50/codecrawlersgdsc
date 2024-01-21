@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scrap It Up - Industrial Scrap Material</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400,700&display=swap">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        header {
+            background: linear-gradient(135deg, #3498db, #2c3e50);
+            color: #ecf0f1;
+            text-align: center;
+            padding: 1em;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        #logo {<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scrap It Up - Industrial Scrap Material</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        header {
+            background: linear-gradient(135deg, #3498db, #2c3e50);
+            color: #ecf0f1;
+            text-align: center;
+            padding: 1em;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        #logo {
+            font-size: 2em;
+            font-weight: bold;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: #ecf0f1;
+            margin-bottom: 10px;
+        }
+
+        h1, h2 {
+            color: #2c3e50;
+        }
+
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+            padding: 12px;
+            background: linear-gradient(135deg, #2ecc71, #27ae60);
+            color: #ecf0f1;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background: linear-gradient(135deg, #3498db, #2c3e50);
+            color: #ecf0f1;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div id="logo">Scrap It Up</div>
+        <p>Selling Quality Industrial Scrap Material</p>
+    </header>
+
+    <section>
+        <h2>Welcome to Scrap It Up!</h2>
+        <p>We specialize in providing a wide range of industrial scrap materials. Browse our inventory to find the best deals on scrap items for your business needs.</p>
+    </section>
+
+    <section>
+        <h2>Featured Products</h2>
+        <ul>
+            <li>Product 1</li>
+            <li>Product 2</li>
+            <li>Product 3</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>If you have any questions or inquiries, feel free to contact us:</p>
+        <address>
+            Email: <a href="mailto:info@scrapitup.com">info@scrapitup.com</a><br>
+            Phone: +1 (123) 456-7890
+        </address>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Scrap It Up - Industrial Scrap Material</p>
+    </footer>
+</body>
+</html>
+
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+
+        h1, h2 {
+            color: #2c3e50;
+        }
+
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+            padding: 12px;
+            background: linear-gradient(135deg, #2ecc71, #27ae60);
+            color: #ecf0f1;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background: linear-gradient(135deg, #3498db, #2c3e50);
+            color: #ecf0f1;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img id="logo" src="path/to/your/logo.png" alt="Scrap It Up Logo">
+        <h1>Scrap It Up</h1>
+        <p>Selling Quality Industrial Scrap Material</p>
+    </header>
+
+    <section>
+        <h2>Welcome to Scrap It Up!</h2>
+        <p>We specialize in providing a wide range of industrial scrap materials. Browse our inventory to find the best deals on scrap items for your business needs.</p>
+    </section>
+
+    <section>
+        <h2>Featured Products</h2>
+        <ul>
+            <li>Product 1</li>
+            <li>Product 2</li>
+            <li>Product 3</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>If you have any questions or inquiries, feel free to contact us:</p>
+        <address>
+            Email: <a href="mailto:info@scrapitup.com">info@scrapitup.com</a><br>
+            Phone: +1 (123) 456-7890
+        </address>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Scrap It Up - Industrial Scrap Material</p>
+    </footer>
+</body>
+</html>
